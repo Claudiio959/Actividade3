@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Actividades3</string>
+    <string name="title_activity_mostrar">mostrar</string>
+    <string name="title_activity_registrar_profesores">Registrar_profesores</string>
+</resources>
